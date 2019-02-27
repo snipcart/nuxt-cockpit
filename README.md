@@ -10,9 +10,13 @@ Covering:
 - How to set up a Cockpit CMS installation & plug it with Snipcart.
 - How to use Nuxt.js static generation to render the frontend of our app.
 
+The result? A full JAMstack app: headless content management, frontend rendered in a JS framework, & shopping through an e-commerce API.
+
 >[Read full tutorial](https://snipcart.com/blog/cockpit-cms-tutorial-nuxtjs)
 
 >[See live demo](https://snipcart-nuxtjs-getcockpit.netlify.com/)
+
+Enjoy folks!
 
 ***
 
